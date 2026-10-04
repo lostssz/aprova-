@@ -1,6 +1,6 @@
 # Aprova+
 
-Protótipo de uma landing page para apresentação escolar do MVP **Aprova+**, uma proposta de reforço e preparação online para ENEM, vestibulares e concursos.
+Site de apresentação do **Aprova+**, uma proposta de reforço e preparação online para ENEM, vestibulares e concursos.
 
 ## Tecnologias
 
@@ -42,4 +42,4 @@ Também é possível abrir o arquivo `index.html` diretamente no navegador.
 - Formulário demonstrativo com validação
 - Animações discretas ao rolar a página
 
-> Este repositório é um protótipo escolar. O formulário não envia dados para um servidor e não existe processamento real de pagamento.
+> O formulário funciona apenas no navegador e não envia dados para um servidor.
