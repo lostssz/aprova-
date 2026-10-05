@@ -30,7 +30,7 @@ aprova-/
 
 Também é possível abrir o arquivo `index.html` diretamente no navegador.
 
-## Funcionalidades do protótipo
+## Funcionalidades
 
 - Layout responsivo
 - Menu para celular
@@ -39,7 +39,7 @@ Também é possível abrir o arquivo `index.html` diretamente no navegador.
 - Explicação do funcionamento
 - Plano único de R$ 70/mês
 - FAQ interativo
-- Formulário demonstrativo com validação
+- Formulário com validação
 - Animações discretas ao rolar a página
 
 > O formulário funciona apenas no navegador e não envia dados para um servidor.
